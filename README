@@ -1,0 +1,2 @@
+Android build commands to sign the prebuilt Toggle2G with the ROM's
+platform key (this also helps odex builds)
